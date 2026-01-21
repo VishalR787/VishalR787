@@ -1,8 +1,12 @@
-
+![bienvenidos](https://github.com/user-attachments/assets/83934d36-83a5-4336-bcba-7a722a85bd4a)
 <h1 align="center">Hi 👋, I'm Vishal Raghav V</h1>
 <h2 align="center">AIML & Full-Stack Developer</h2>
 <h3 align="center">Researcher</h3>
 
+<p align="center"
+  <img src="![bienvenidos](https://github.com/user-attachments/assets/97ba6b92-53f1-4663-8090-f6f53199f2fe)" width="100px" />
+</p>
+  
 
 ## 🚀 About Me
 
