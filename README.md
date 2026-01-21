@@ -33,9 +33,9 @@ My interests include:
 
 ## 🛠 Languages & Tools
 
-<marquee behavior="scroll" direction="left" scrollamount="6">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,express,fastapi,postman,mysql,mongodb,git,docker,langchain,n8n,pytorch,nltk" />
-</marquee>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,express,fastapi,mysql,mongodb,git,docker,langchain,n8n" >
+</p>
 
 
 
