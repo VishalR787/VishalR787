@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Vishal Raghav V</h1>
-<h2 align="center">AIML & Full-Stack Developer/h2>
-<h3 align="center">Researcher/h3>
+<h2 align="center">AIML & Full-Stack Developer</h2>
+<h3 align="center">Researcher</h3>
 
 
 ## 🚀 About Me
@@ -37,9 +37,10 @@ My interests include:
 
 ## 🛠 Languages & Tools
 
-<p align="left">
+<marquee behavior="scroll" direction="left" scrollamount="6">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,express,fastapi,mysql,mongodb,git,docker" />
-</p>
+</marquee>
+
 
 
 ## 📊 GitHub Stats
