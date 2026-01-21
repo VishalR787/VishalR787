@@ -3,7 +3,7 @@
 <h3 align="center">Researcher</h3>
 
 <p align="center"
-  <img src="![bienvenidos](https://github.com/user-attachments/assets/97ba6b92-53f1-4663-8090-f6f53199f2fe)" width="100px" />
+  <img src="https://github.com/user-attachments/assets/97ba6b92-53f1-4663-8090-f6f53199f2fe" width="100px" />
 </p>
   
 
