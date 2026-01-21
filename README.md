@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Vishal Raghav V</h1>
 <h2 align="center">AIML & Full-Stack Developer</h2>
