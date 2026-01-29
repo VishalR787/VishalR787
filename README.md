@@ -31,7 +31,7 @@ My interests include:
 </p>
 
 
-## 🛠 Languages & Tools
+<h1 align="center"><b><i>"MY TECH TOOLS"</b></i></h1>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,express,fastapi,mysql,mongodb,git,docker,langchain,n8n,pytorch,nltk,pandas" >
