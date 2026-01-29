@@ -31,7 +31,14 @@ My interests include:
 </p>
 
 
-<h1 align="left"><b><i>"MY TECH TOOLS"</b></i></h1>
+<h1 align="center" style="
+  font-family: 'Oswald', sans-serif;
+  font-style: italic;
+  font-weight: 600;
+  letter-spacing: 3px;
+">
+  MY TECH TOOLS
+</h1>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,express,fastapi,mysql,mongodb,git,docker,langchain,n8n,pytorch,nltk,pandas" >
