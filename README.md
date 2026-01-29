@@ -31,17 +31,11 @@ My interests include:
 </p>
 
 
-
-
 <p align="left">
   <h1 align="left"><b><i>"MY TECH TOOLS"</i></b></h1>
   <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,express,fastapi,mysql,mongodb,git,docker,langchain,n8n,pytorch,nltk,pandas" >
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishalR787&show_icons=true&theme=tokyonight" />
-</p>
 
 📈 Most Used Languages
 <p align="center">
