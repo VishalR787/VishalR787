@@ -31,12 +31,12 @@ My interests include:
 </p>
 
 
-<h1 align="left"><b><i>"MY TECH TOOLS"</i></b></h1>
+
 
 <p align="left">
+  <h1 align="left"><b><i>"MY TECH TOOLS"</i></b></h1>
   <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,express,fastapi,mysql,mongodb,git,docker,langchain,n8n,pytorch,nltk,pandas" >
 </p>
-
 
 ## 📊 GitHub Stats
 <p align="center">
