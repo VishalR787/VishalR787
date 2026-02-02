@@ -37,10 +37,4 @@ My interests include:
 </p>
 
 
-📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalR787&layout=compact&theme=tokyonight" />
-</p>
-
-
 
