@@ -30,9 +30,9 @@ My interests include:
 </a>
 </p>
 
-<h1 align="center"><b><i>🚀 MY TECH STACK</i></b></h1>
+<h1 align="left"><b><i>🚀 MY TECH STACK</i></b></h1>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,vite,nodejs,express,fastapi,mysql,mongodb,git,docker,langchain,n8n,pytorch,nltk,pandas" />
 </p>
 
