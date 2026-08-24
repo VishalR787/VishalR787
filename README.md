@@ -16,7 +16,7 @@ My interests include:
 
 - 🌱 Currently learning and practising **Advanced DSA, LLMs, and NLP**
 - 👨‍💻 Building AI tools and Chatbots like **CodeSage** **ResearchGPT** **MediSearch**
-- 📫 Reach me at **vvraghav16@gmail.com**
+- 📫 Reach me at **vvraghav16@gmail.com/vvr71717@gmail.com**
 
 
 ## 🌐 Connect with Me
